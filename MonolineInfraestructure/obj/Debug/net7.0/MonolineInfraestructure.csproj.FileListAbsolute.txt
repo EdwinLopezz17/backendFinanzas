@@ -12,3 +12,17 @@ D:\cursos de ing. de software\Civlo VI\Finanzas\Proyecto\MonoLineBackEnd\Monolin
 D:\cursos de ing. de software\Civlo VI\Finanzas\Proyecto\MonoLineBackEnd\MonolineInfraestructure\obj\Debug\net7.0\ref\MonolineInfraestructure.dll
 D:\cursos de ing. de software\Civlo VI\Finanzas\Proyecto\MonoLineBackEnd\MonolineInfraestructure\bin\Debug\net7.0\MonolineInfraestructure.runtimeconfig.json
 D:\cursos de ing. de software\Civlo VI\Finanzas\Proyecto\MonoLineBackEnd\MonolineInfraestructure\obj\Debug\net7.0\MonolineInfraestructure.genruntimeconfig.cache
+E:\Proyectos RIDER\backendFinanzas\MonolineInfraestructure\bin\Debug\net7.0\MonolineInfraestructure.deps.json
+E:\Proyectos RIDER\backendFinanzas\MonolineInfraestructure\bin\Debug\net7.0\MonolineInfraestructure.runtimeconfig.json
+E:\Proyectos RIDER\backendFinanzas\MonolineInfraestructure\bin\Debug\net7.0\MonolineInfraestructure.dll
+E:\Proyectos RIDER\backendFinanzas\MonolineInfraestructure\bin\Debug\net7.0\MonolineInfraestructure.pdb
+E:\Proyectos RIDER\backendFinanzas\MonolineInfraestructure\obj\Debug\net7.0\MonolineInfraestructure.csproj.AssemblyReference.cache
+E:\Proyectos RIDER\backendFinanzas\MonolineInfraestructure\obj\Debug\net7.0\MonolineInfraestructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos RIDER\backendFinanzas\MonolineInfraestructure\obj\Debug\net7.0\MonolineInfraestructure.AssemblyInfoInputs.cache
+E:\Proyectos RIDER\backendFinanzas\MonolineInfraestructure\obj\Debug\net7.0\MonolineInfraestructure.AssemblyInfo.cs
+E:\Proyectos RIDER\backendFinanzas\MonolineInfraestructure\obj\Debug\net7.0\MonolineInfraestructure.csproj.CoreCompileInputs.cache
+E:\Proyectos RIDER\backendFinanzas\MonolineInfraestructure\obj\Debug\net7.0\MonolineInfraestructure.dll
+E:\Proyectos RIDER\backendFinanzas\MonolineInfraestructure\obj\Debug\net7.0\refint\MonolineInfraestructure.dll
+E:\Proyectos RIDER\backendFinanzas\MonolineInfraestructure\obj\Debug\net7.0\MonolineInfraestructure.pdb
+E:\Proyectos RIDER\backendFinanzas\MonolineInfraestructure\obj\Debug\net7.0\MonolineInfraestructure.genruntimeconfig.cache
+E:\Proyectos RIDER\backendFinanzas\MonolineInfraestructure\obj\Debug\net7.0\ref\MonolineInfraestructure.dll

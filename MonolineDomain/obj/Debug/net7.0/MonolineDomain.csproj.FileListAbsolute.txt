@@ -13,3 +13,18 @@ D:\cursos de ing. de software\Civlo VI\Finanzas\Proyecto\MonoLineBackEnd\Monolin
 D:\cursos de ing. de software\Civlo VI\Finanzas\Proyecto\MonoLineBackEnd\MonolineDomain\obj\Debug\net7.0\refint\MonolineDomain.dll
 D:\cursos de ing. de software\Civlo VI\Finanzas\Proyecto\MonoLineBackEnd\MonolineDomain\obj\Debug\net7.0\MonolineDomain.pdb
 D:\cursos de ing. de software\Civlo VI\Finanzas\Proyecto\MonoLineBackEnd\MonolineDomain\obj\Debug\net7.0\ref\MonolineDomain.dll
+E:\Proyectos RIDER\backendFinanzas\MonolineDomain\bin\Debug\net7.0\MonolineDomain.deps.json
+E:\Proyectos RIDER\backendFinanzas\MonolineDomain\bin\Debug\net7.0\MonolineDomain.dll
+E:\Proyectos RIDER\backendFinanzas\MonolineDomain\bin\Debug\net7.0\MonolineDomain.pdb
+E:\Proyectos RIDER\backendFinanzas\MonolineDomain\bin\Debug\net7.0\MonolineInfraestructure.dll
+E:\Proyectos RIDER\backendFinanzas\MonolineDomain\bin\Debug\net7.0\MonolineInfraestructure.pdb
+E:\Proyectos RIDER\backendFinanzas\MonolineDomain\obj\Debug\net7.0\MonolineDomain.csproj.AssemblyReference.cache
+E:\Proyectos RIDER\backendFinanzas\MonolineDomain\obj\Debug\net7.0\MonolineDomain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos RIDER\backendFinanzas\MonolineDomain\obj\Debug\net7.0\MonolineDomain.AssemblyInfoInputs.cache
+E:\Proyectos RIDER\backendFinanzas\MonolineDomain\obj\Debug\net7.0\MonolineDomain.AssemblyInfo.cs
+E:\Proyectos RIDER\backendFinanzas\MonolineDomain\obj\Debug\net7.0\MonolineDomain.csproj.CoreCompileInputs.cache
+E:\Proyectos RIDER\backendFinanzas\MonolineDomain\obj\Debug\net7.0\MonolineDomain.csproj.CopyComplete
+E:\Proyectos RIDER\backendFinanzas\MonolineDomain\obj\Debug\net7.0\MonolineDomain.dll
+E:\Proyectos RIDER\backendFinanzas\MonolineDomain\obj\Debug\net7.0\refint\MonolineDomain.dll
+E:\Proyectos RIDER\backendFinanzas\MonolineDomain\obj\Debug\net7.0\MonolineDomain.pdb
+E:\Proyectos RIDER\backendFinanzas\MonolineDomain\obj\Debug\net7.0\ref\MonolineDomain.dll

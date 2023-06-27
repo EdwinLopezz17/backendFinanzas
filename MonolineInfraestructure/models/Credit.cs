@@ -10,6 +10,7 @@ public class Credit
     public bool IsSustainable { get; set; }
     public bool GoodPayerBonus { get; set; }
     public double InterestRate { get; set; }
+    public double cok { get; set; }
     public int PartialGracePeriod { get; set; }
     public int FullGracePeriod { get; set; }
     public int NumberOfYears { get; set; }

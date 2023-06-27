@@ -22,7 +22,7 @@ public class MonolineDBContext : DbContext
         if (!optionsBuilder.IsConfigured)
         {
             var serverVersion = new MySqlServerVersion(new Version(8, 0, 33));
-            optionsBuilder.UseMySql("Server=127.0.0.1,3306;Uid=root;Pwd=UPC@intranet_17;Database=monolineDB", serverVersion);
+            optionsBuilder.UseMySql("Server=sql10.freemysqlhosting.net,3306;Uid=sql10629019;Pwd=LyqAHrVdJj;Database=sql10629019", serverVersion);
         }
     }
     

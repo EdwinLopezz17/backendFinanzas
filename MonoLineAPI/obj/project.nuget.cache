@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mmAJGzVVMfd/0c74y+43Hi/ZSiDtbR0YWyJbJSaK9aRKnYiC//WyrPGW3QbttV+faydjJdqa3pqbqdmPOK7uIg==",
+  "dgSpecHash": "K5RiTSuXLdzDyTBADQTBAtKTHzr8bIv+ZUpzGyUn7I+6mQuNmWSuP5IiR0SQi6Z8qjx5rIH2TkTrBFnLNhakKQ==",
   "success": true,
-  "projectFilePath": "D:\\cursos de ing. de software\\Civlo VI\\Finanzas\\Proyecto\\MonoLineBackEnd\\MonoLineAPI\\MonoLineAPI.csproj",
+  "projectFilePath": "E:\\Proyectos RIDER\\backendFinanzas\\MonoLineAPI\\MonoLineAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\edwin\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\edwin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

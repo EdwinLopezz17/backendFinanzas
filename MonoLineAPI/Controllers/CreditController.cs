@@ -56,6 +56,7 @@ namespace MonoLineAPI.Controllers
         {
             Credit credit = _mapper.Map<Datas, Credit>(datas);
 
+            credit.cok = (Math.Pow(credit.cok + 1, (1 / (360 / credit.PaymentFrequency)))) - 1;
             credit.FutureFlow = this.obtenerFlujos(datas, _propertyInfraestructure.GetObject(datas.IdProperty));
 
            _creditInfraestructure.save(credit);

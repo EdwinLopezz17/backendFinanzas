@@ -5577,11 +5577,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\cursos de ing. de software\\Civlo VI\\Finanzas\\Proyecto\\MonoLineBackEnd\\MonolineInfraestructure\\MonolineInfraestructure.csproj",
+      "projectUniqueName": "E:\\Proyectos RIDER\\backendFinanzas\\MonolineInfraestructure\\MonolineInfraestructure.csproj",
       "projectName": "MonolineInfraestructure",
-      "projectPath": "D:\\cursos de ing. de software\\Civlo VI\\Finanzas\\Proyecto\\MonoLineBackEnd\\MonolineInfraestructure\\MonolineInfraestructure.csproj",
+      "projectPath": "E:\\Proyectos RIDER\\backendFinanzas\\MonolineInfraestructure\\MonolineInfraestructure.csproj",
       "packagesPath": "C:\\Users\\edwin\\.nuget\\packages\\",
-      "outputPath": "D:\\cursos de ing. de software\\Civlo VI\\Finanzas\\Proyecto\\MonoLineBackEnd\\MonolineInfraestructure\\obj\\",
+      "outputPath": "E:\\Proyectos RIDER\\backendFinanzas\\MonolineInfraestructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

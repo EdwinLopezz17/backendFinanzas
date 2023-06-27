@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "09Q9lXLoPCWj/dc6n/ZPNt51qtPuL2EjLhHnJnGw/T9VRE6Ab9oY1CYqp4QMi2Hzl0jT6737XUUu1Kf4FX37iw==",
+  "dgSpecHash": "it2aQX3uGK14x3Hm+jmqj3woctfBiUBkG24BZeeMSKyUbV4lRFGBUlpqGJMFiLiQIof4R1kRGZx1L2NwpyB4BA==",
   "success": true,
-  "projectFilePath": "D:\\cursos de ing. de software\\Civlo VI\\Finanzas\\Proyecto\\MonoLineBackEnd\\MonolineInfraestructure\\MonolineInfraestructure.csproj",
+  "projectFilePath": "E:\\Proyectos RIDER\\backendFinanzas\\MonolineInfraestructure\\MonolineInfraestructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\edwin\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\edwin\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.8\\microsoft.entityframeworkcore.7.0.8.nupkg.sha512",

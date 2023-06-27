@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\cursos de ing. de software\\Civlo VI\\Finanzas\\Proyecto\\MonoLineBackEnd\\MonolineDomain\\MonolineDomain.csproj": {}
+    "E:\\Proyectos RIDER\\backendFinanzas\\MonolineDomain\\MonolineDomain.csproj": {}
   },
   "projects": {
-    "D:\\cursos de ing. de software\\Civlo VI\\Finanzas\\Proyecto\\MonoLineBackEnd\\MonolineDomain\\MonolineDomain.csproj": {
+    "E:\\Proyectos RIDER\\backendFinanzas\\MonolineDomain\\MonolineDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\cursos de ing. de software\\Civlo VI\\Finanzas\\Proyecto\\MonoLineBackEnd\\MonolineDomain\\MonolineDomain.csproj",
+        "projectUniqueName": "E:\\Proyectos RIDER\\backendFinanzas\\MonolineDomain\\MonolineDomain.csproj",
         "projectName": "MonolineDomain",
-        "projectPath": "D:\\cursos de ing. de software\\Civlo VI\\Finanzas\\Proyecto\\MonoLineBackEnd\\MonolineDomain\\MonolineDomain.csproj",
+        "projectPath": "E:\\Proyectos RIDER\\backendFinanzas\\MonolineDomain\\MonolineDomain.csproj",
         "packagesPath": "C:\\Users\\edwin\\.nuget\\packages\\",
-        "outputPath": "D:\\cursos de ing. de software\\Civlo VI\\Finanzas\\Proyecto\\MonoLineBackEnd\\MonolineDomain\\obj\\",
+        "outputPath": "E:\\Proyectos RIDER\\backendFinanzas\\MonolineDomain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\cursos de ing. de software\\Civlo VI\\Finanzas\\Proyecto\\MonoLineBackEnd\\MonolineInfraestructure\\MonolineInfraestructure.csproj": {
-                "projectPath": "D:\\cursos de ing. de software\\Civlo VI\\Finanzas\\Proyecto\\MonoLineBackEnd\\MonolineInfraestructure\\MonolineInfraestructure.csproj"
+              "E:\\Proyectos RIDER\\backendFinanzas\\MonolineInfraestructure\\MonolineInfraestructure.csproj": {
+                "projectPath": "E:\\Proyectos RIDER\\backendFinanzas\\MonolineInfraestructure\\MonolineInfraestructure.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "D:\\cursos de ing. de software\\Civlo VI\\Finanzas\\Proyecto\\MonoLineBackEnd\\MonolineInfraestructure\\MonolineInfraestructure.csproj": {
+    "E:\\Proyectos RIDER\\backendFinanzas\\MonolineInfraestructure\\MonolineInfraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\cursos de ing. de software\\Civlo VI\\Finanzas\\Proyecto\\MonoLineBackEnd\\MonolineInfraestructure\\MonolineInfraestructure.csproj",
+        "projectUniqueName": "E:\\Proyectos RIDER\\backendFinanzas\\MonolineInfraestructure\\MonolineInfraestructure.csproj",
         "projectName": "MonolineInfraestructure",
-        "projectPath": "D:\\cursos de ing. de software\\Civlo VI\\Finanzas\\Proyecto\\MonoLineBackEnd\\MonolineInfraestructure\\MonolineInfraestructure.csproj",
+        "projectPath": "E:\\Proyectos RIDER\\backendFinanzas\\MonolineInfraestructure\\MonolineInfraestructure.csproj",
         "packagesPath": "C:\\Users\\edwin\\.nuget\\packages\\",
-        "outputPath": "D:\\cursos de ing. de software\\Civlo VI\\Finanzas\\Proyecto\\MonoLineBackEnd\\MonolineInfraestructure\\obj\\",
+        "outputPath": "E:\\Proyectos RIDER\\backendFinanzas\\MonolineInfraestructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

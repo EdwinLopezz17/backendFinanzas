@@ -13,4 +13,5 @@ public class Datas
     public int FullGracePeriod { get; set; }
     public int NumberOfYears { get; set; }
     public int PaymentFrequency { get; set; }
+    public double cok { get; set; }
 }
