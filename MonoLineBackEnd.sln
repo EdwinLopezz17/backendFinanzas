@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoLineAPI", "MonoLineAPI\MonoLineAPI.csproj", "{3FD9A45E-BE16-4D88-A928-070A377FA178}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonolineDomain", "MonolineDomain\MonolineDomain.csproj", "{84E92FDC-7420-4C70-B1F1-F1BFA21B57CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonolineInfraestructure", "MonolineInfraestructure\MonolineInfraestructure.csproj", "{B10FCD1E-804A-4B57-8CD7-FA741D227E4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FD9A45E-BE16-4D88-A928-070A377FA178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FD9A45E-BE16-4D88-A928-070A377FA178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FD9A45E-BE16-4D88-A928-070A377FA178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FD9A45E-BE16-4D88-A928-070A377FA178}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84E92FDC-7420-4C70-B1F1-F1BFA21B57CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84E92FDC-7420-4C70-B1F1-F1BFA21B57CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84E92FDC-7420-4C70-B1F1-F1BFA21B57CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84E92FDC-7420-4C70-B1F1-F1BFA21B57CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B10FCD1E-804A-4B57-8CD7-FA741D227E4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B10FCD1E-804A-4B57-8CD7-FA741D227E4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B10FCD1E-804A-4B57-8CD7-FA741D227E4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B10FCD1E-804A-4B57-8CD7-FA741D227E4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

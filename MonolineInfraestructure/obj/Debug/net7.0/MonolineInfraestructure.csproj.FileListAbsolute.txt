@@ -1,0 +1,14 @@
+D:\cursos de ing. de software\Civlo VI\Finanzas\Proyecto\MonoLineBackEnd\MonolineInfraestructure\bin\Debug\net7.0\MonolineInfraestructure.deps.json
+D:\cursos de ing. de software\Civlo VI\Finanzas\Proyecto\MonoLineBackEnd\MonolineInfraestructure\bin\Debug\net7.0\MonolineInfraestructure.dll
+D:\cursos de ing. de software\Civlo VI\Finanzas\Proyecto\MonoLineBackEnd\MonolineInfraestructure\bin\Debug\net7.0\MonolineInfraestructure.pdb
+D:\cursos de ing. de software\Civlo VI\Finanzas\Proyecto\MonoLineBackEnd\MonolineInfraestructure\obj\Debug\net7.0\MonolineInfraestructure.csproj.AssemblyReference.cache
+D:\cursos de ing. de software\Civlo VI\Finanzas\Proyecto\MonoLineBackEnd\MonolineInfraestructure\obj\Debug\net7.0\MonolineInfraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursos de ing. de software\Civlo VI\Finanzas\Proyecto\MonoLineBackEnd\MonolineInfraestructure\obj\Debug\net7.0\MonolineInfraestructure.AssemblyInfoInputs.cache
+D:\cursos de ing. de software\Civlo VI\Finanzas\Proyecto\MonoLineBackEnd\MonolineInfraestructure\obj\Debug\net7.0\MonolineInfraestructure.AssemblyInfo.cs
+D:\cursos de ing. de software\Civlo VI\Finanzas\Proyecto\MonoLineBackEnd\MonolineInfraestructure\obj\Debug\net7.0\MonolineInfraestructure.csproj.CoreCompileInputs.cache
+D:\cursos de ing. de software\Civlo VI\Finanzas\Proyecto\MonoLineBackEnd\MonolineInfraestructure\obj\Debug\net7.0\MonolineInfraestructure.dll
+D:\cursos de ing. de software\Civlo VI\Finanzas\Proyecto\MonoLineBackEnd\MonolineInfraestructure\obj\Debug\net7.0\refint\MonolineInfraestructure.dll
+D:\cursos de ing. de software\Civlo VI\Finanzas\Proyecto\MonoLineBackEnd\MonolineInfraestructure\obj\Debug\net7.0\MonolineInfraestructure.pdb
+D:\cursos de ing. de software\Civlo VI\Finanzas\Proyecto\MonoLineBackEnd\MonolineInfraestructure\obj\Debug\net7.0\ref\MonolineInfraestructure.dll
+D:\cursos de ing. de software\Civlo VI\Finanzas\Proyecto\MonoLineBackEnd\MonolineInfraestructure\bin\Debug\net7.0\MonolineInfraestructure.runtimeconfig.json
+D:\cursos de ing. de software\Civlo VI\Finanzas\Proyecto\MonoLineBackEnd\MonolineInfraestructure\obj\Debug\net7.0\MonolineInfraestructure.genruntimeconfig.cache

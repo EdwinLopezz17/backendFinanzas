@@ -1,0 +1,15 @@
+D:\cursos de ing. de software\Civlo VI\Finanzas\Proyecto\MonoLineBackEnd\MonolineDomain\bin\Debug\net7.0\MonolineDomain.deps.json
+D:\cursos de ing. de software\Civlo VI\Finanzas\Proyecto\MonoLineBackEnd\MonolineDomain\bin\Debug\net7.0\MonolineDomain.dll
+D:\cursos de ing. de software\Civlo VI\Finanzas\Proyecto\MonoLineBackEnd\MonolineDomain\bin\Debug\net7.0\MonolineDomain.pdb
+D:\cursos de ing. de software\Civlo VI\Finanzas\Proyecto\MonoLineBackEnd\MonolineDomain\bin\Debug\net7.0\MonolineInfraestructure.dll
+D:\cursos de ing. de software\Civlo VI\Finanzas\Proyecto\MonoLineBackEnd\MonolineDomain\bin\Debug\net7.0\MonolineInfraestructure.pdb
+D:\cursos de ing. de software\Civlo VI\Finanzas\Proyecto\MonoLineBackEnd\MonolineDomain\obj\Debug\net7.0\MonolineDomain.csproj.AssemblyReference.cache
+D:\cursos de ing. de software\Civlo VI\Finanzas\Proyecto\MonoLineBackEnd\MonolineDomain\obj\Debug\net7.0\MonolineDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursos de ing. de software\Civlo VI\Finanzas\Proyecto\MonoLineBackEnd\MonolineDomain\obj\Debug\net7.0\MonolineDomain.AssemblyInfoInputs.cache
+D:\cursos de ing. de software\Civlo VI\Finanzas\Proyecto\MonoLineBackEnd\MonolineDomain\obj\Debug\net7.0\MonolineDomain.AssemblyInfo.cs
+D:\cursos de ing. de software\Civlo VI\Finanzas\Proyecto\MonoLineBackEnd\MonolineDomain\obj\Debug\net7.0\MonolineDomain.csproj.CoreCompileInputs.cache
+D:\cursos de ing. de software\Civlo VI\Finanzas\Proyecto\MonoLineBackEnd\MonolineDomain\obj\Debug\net7.0\MonolineDomain.csproj.CopyComplete
+D:\cursos de ing. de software\Civlo VI\Finanzas\Proyecto\MonoLineBackEnd\MonolineDomain\obj\Debug\net7.0\MonolineDomain.dll
+D:\cursos de ing. de software\Civlo VI\Finanzas\Proyecto\MonoLineBackEnd\MonolineDomain\obj\Debug\net7.0\refint\MonolineDomain.dll
+D:\cursos de ing. de software\Civlo VI\Finanzas\Proyecto\MonoLineBackEnd\MonolineDomain\obj\Debug\net7.0\MonolineDomain.pdb
+D:\cursos de ing. de software\Civlo VI\Finanzas\Proyecto\MonoLineBackEnd\MonolineDomain\obj\Debug\net7.0\ref\MonolineDomain.dll
